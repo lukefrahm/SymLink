@@ -1,0 +1,16 @@
+C:\Code\Code\SymLinkWPF\SymLinkWPF\bin\Debug\SymLinkWPF.exe.config
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF.csprojResolveAssemblyReference.cache
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\MainWindow.baml
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\MainWindow.g.cs
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\App.g.cs
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF_MarkupCompile.cache
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF.g.resources
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF.Properties.Resources.resources
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF.csproj.GenerateResource.Cache
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF.csproj.CoreCompileInputs.cache
+C:\Code\Code\SymLinkWPF\SymLinkWPF\bin\Debug\SymLinkWPF.exe
+C:\Code\Code\SymLinkWPF\SymLinkWPF\bin\Debug\SymLinkWPF.pdb
+C:\Code\Code\SymLinkWPF\SymLinkWPF\bin\Debug\System.ValueTuple.dll
+C:\Code\Code\SymLinkWPF\SymLinkWPF\bin\Debug\System.ValueTuple.xml
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF.exe
+C:\Code\Code\SymLinkWPF\SymLinkWPF\obj\Debug\SymLinkWPF.pdb
